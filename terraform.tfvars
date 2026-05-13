@@ -1,2 +1,2 @@
-key_name = "your-keypair-name"
+key_name = "keypair-name"
 ami_id   = "ami-xxxxxxxxxxxxx"
